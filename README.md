@@ -1,4 +1,4 @@
-## 4. Python 4 Data Science Excercise
+## 5. R and Julia Excercise
 
 
-JupyterLab wurde um den R bzw. Julia Kernel erweitert. So konnten die Aufgaben mit Jupyter Notebooks durchgeführt werden.
+JupyterLab wurde um den R bzw. Julia Kernel erweitert. So konnten die Aufgaben mit JupyterLab, also in JupyterNotebook Files durchgeführt werden.
